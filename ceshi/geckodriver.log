@@ -1,0 +1,263 @@
+1545210318922	mozrunner::runner	INFO	Running command: "e:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fhtie\\AppData\\Local\\Temp\\rust_mozprofile.CeOsxpCG0ZSK"
+1545210319999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545210320000	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545210321931	Marionette	INFO	Listening on port 54688
+1545210322149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Child 2284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 228[Child 14824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1481545210615854	Marionette	INFO	Stopped listening on port 54688
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16524
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+532597	Marionette	INFO	Listening on port 55094
+1545210532838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9312, Chr[Parent 17268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1545210545248	Marionette	INFO	Stopped listening on port 55094
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545291459053	mozrunner::runner	INFO	Running command: "e:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fhtie\\AppData\\Local\\Temp\\rust_mozprofile.oH5tYDOHiYqb"
+1545291461745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545291461746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545291469013	Marionette	INFO	Listening on port 49679
+1545291469079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1445_21104_28131_26350_27750_28139_22075&req=2&csor=1&cb=jQuery110208838986811654354_1545291472182&_=1545291472184, line 1: TypeError: jQuery110208838986811654354_1545291472182 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1445_21104_28131_26350_27750_28139_22075&req=2&csor=2&pwd=p&cb=jQuery110208838986811654354_1545291472182&_=1545291472185, line 1: TypeError: jQuery110208838986811654354_1545291472182 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1445_21104_28131_26350_27750_28139_22075&req=2&csor=3&pwd=py&cb=jQuery110208838986811654354_1545291472182&_=1545291472186, line 1: TypeError: jQuery110208838986811654354_1545291472182 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1445_21104_28131_26350_27750_28139_22075&req=2&csor=4&pwd=pyt&cb=jQuery110208838986811654354_1545291472182&_=1545291472187, line 1: TypeError: jQuery110208838986811654354_1545291472182 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1445_21104_28131_26350_27750_28139_22075&req=2&csor=6&pwd=pytho&cb=jQuery110208838986811654354_1545291472182&_=1545291472189, line 1: TypeError: jQuery110208838986811654354_1545291472182 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1445_21104_28131_26350_27750_28139_22075&req=2&csor=5&pwd=pyth&cb=jQuery110208838986811654354_1545291472182&_=1545291472188, line 1: TypeError: jQuery110208838986811654354_1545291472182 is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 13684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18204, Chrome_ChildThread] WARNING: pipe error: 1[Child 10452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10452, Chrome_ChildThrea[Parent 13684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc1545293286990	Marionette	INFO	Stopped listening on port 49679
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1445_21125_18559_28132_26350_27751_27245&req=2&csor=2&pwd=p&cb=jQuery11020888206458091768_1545292533226&_=1545292533229, line 1: TypeError: jQuery11020888206458091768_1545292533226 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1445_21125_18559_28132_26350_27751_27245&req=2&csor=4&pwd=pyt&cb=jQuery11020888206458091768_1545292533226&_=1545292533231, line 1: TypeError: jQuery11020888206458091768_1545292533226 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1445_21125_18559_28132_26350_27751_27245&req=2&csor=3&pwd=py&cb=jQuery11020888206458091768_1545292533226&_=1545292533230, line 1: TypeError: jQuery11020888206458091768_1545292533226 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1445_21125_18559_28132_26350_27751_27245&req=2&csor=5&pwd=pyth&cb=jQuery11020888206458091768_1545292533226&_=1545292533232, line 1: TypeError: jQuery11020888206458091768_1545292533226 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1445_21125_18559_28132_26350_27751_27245&req=2&csor=6&pwd=pytho&cb=jQuery11020888206458091768_1545292533226&_=1545292533233, line 1: TypeError: jQuery11020888206458091768_1545292533226 is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Child 8124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/[bChild 11164, Chrome_uChildThread] WARNING: pipe error: ild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil10d 8124, Chrome_ChildTh9: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1545293286898	Marionette	INFO	Stopped listening on port 52638
+[GPU 16056, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545292762923	Marionette	INFO	Listening on port 52930
+1545292763094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1433_21093_28131_26350_27750_28140_22075&req=2&csor=1&cb=jQuery110206432264218667304_1545292766976&_=1545292766978, line 1: TypeError: jQuery110206432264218667304_1545292766976 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1433_21093_28131_26350_27750_28140_22075&req=2&csor=2&pwd=p&cb=jQuery110206432264218667304_1545292766976&_=1545292766979, line 1: TypeError: jQuery110206432264218667304_1545292766976 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1433_21093_28131_26350_27750_28140_22075&req=2&csor=4&pwd=pyt&cb=jQuery110206432264218667304_1545292766976&_=1545292766981, line 1: TypeError: jQuery110206432264218667304_1545292766976 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1433_21093_28131_26350_27750_28140_22075&req=2&csor=3&pwd=py&cb=jQuery110206432264218667304_1545292766976&_=1545292766980, line 1: TypeError: jQuery110206432264218667304_1545292766976 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1433_21093_28131_26350_27750_28140_22075&req=2&csor=5&pwd=pyth&cb=jQuery110206432264218667304_1545292766976&_=1545292766982, line 1: TypeError: jQuery110206432264218667304_1545292766976 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1433_21093_28131_26350_27750_28140_22075&req=2&csor=6&pwd=pytho&cb=jQuery110206432264218667304_1545292766976&_=1545292766983, line 1: TypeError: jQuery110206432264218667304_1545292766976 is not a function
+[Child 3480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe[Parent 18312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1545292779828	Marionette	INFO	Stopped listening on port 52930
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545293101543	mozrunner::runner	INFO	Running command: "e:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fhtie\\AppData\\Local\\Temp\\rust_mozprofile.xOfBnnnLlFZw"
+1545293102187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545293102187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545293104123	Marionette	INFO	Listening on port 53528
+1545293104276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=26522_1435_21111_28132_27751_27244_27508&req=2&csor=1&cb=jQuery11020047387702633474915_1545293111244&_=1545293111246, line 1: TypeError: jQuery11020047387702633474915_1545293111244 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=26522_1435_21111_28132_27751_27244_27508&req=2&csor=5&pwd=pyth&cb=jQuery11020047387702633474915_1545293111244&_=1545293111250, line 1: TypeError: jQuery11020047387702633474915_1545293111244 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=26522_1435_21111_28132_27751_27244_27508&req=2&csor=3&pwd=py&cb=jQuery11020047387702633474915_1545293111244&_=1545293111248, line 1: TypeError: jQuery11020047387702633474915_1545293111244 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=26522_1435_21111_28132_27751_27244_27508&req=2&csor=2&pwd=p&cb=jQuery11020047387702633474915_1545293111244&_=1545293111247, line 1: TypeError: jQuery11020047387702633474915_1545293111244 is not a function
+1545293120255	mozrunner::runner	INFO	Running command: "e:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fhtie\\AppData\\Local\\Temp\\rust_mozprofile.puFNF6SaBbnW"
+1545293120879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545293120879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545293123105	Marionette	INFO	Listening on pconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Child 18884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 191545293286941	Marionette	INFO	Stopped listening on port 53528
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=28117_1469_27209_21107_28132_26350_27750_27244&req=2&csor=1&cb=jQuery110209184265441099444_1545293129872&_=1545293129874, line 1: TypeError: jQuery110209184265441099444_1545293129872 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=28117_1469_27209_21107_28132_26350_27750_27244&req=2&csor=6&pwd=pytho&cb=jQuery110209184265441099444_1545293129872&_=1545293129879, line 1: TypeError: jQuery110209184265441099444_1545293129872 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=28117_1469_27209_21107_28132_26350_27750_27244&req=2&csor=3&pwd=py&cb=jQuery110209184265441099444_1545293129872&_=1545293129876, line 1: TypeError: jQuery110209184265441099444_1545293129872 is not a function
+[Parent 18824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9000, Chrome_ChildTh[Parent 18824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 18824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9052, Chrome_C1545293286899	Marionette	INFO	Stopped listening on port 53712
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545293781597	mozrunner::runner	INFO	Running command: "e:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fhtie\\AppData\\Local\\Temp\\rust_mozprofile.1AapKlcR1EDR"
+1545293782173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545293782174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545293784085	Marionette	INFO	Listening on port 55165
+1545293784330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1450_21087_28132_26350_27751_27245_20718&req=2&csor=1&cb=jQuery110202963049753701755_1545293787076&_=1545293787078, line 1: TypeError: jQuery110202963049753701755_1545293787076 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1450_21087_28132_26350_27751_27245_20718&req=2&csor=3&pwd=py&cb=jQuery110202963049753701755_1545293787076&_=1545293787080, line 1: TypeError: jQuery110202963049753701755_1545293787076 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1450_21087_28132_26350_27751_27245_20718&req=2&csor=2&pwd=p&cb=jQuery110202963049753701755_1545293787076&_=1545293787079, line 1: TypeError: jQuery110202963049753701755_1545293787076 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1450_21087_28132_26350_27751_27245_20718&req=2&csor=4&pwd=pyt&cb=jQuery110202963049753701755_1545293787076&_=1545293787081, line 1: TypeError: jQuery110202963049753701755_1545293787076 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1450_21087_28132_26350_27751_27245_20718&req=2&csor=5&pwd=pyth&cb=jQuery110202963049753701755_1545293787076&_=1545293787082, line 1: TypeError: jQuery110202963049753701755_1545293787076 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=python&json=1&p=3&sid=1450_21087_28132_26350_27751_27245_20718&req=2&csor=6&pwd=pytho&cb=jQuery110202963049753701755_1545293787076&_=1545293787083, line 1: TypeError: jQuery110202963049753701755_1545293787076 is not a function
+[Parent 18204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6372, Chrome_ChildThread] WARNING: pipe error[Child 6584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6584, Chrome_ChildThread] WARNIN[Parent 18204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11545293997727	Marionette	INFO	Stopped listening on port 55165
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20132, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+baidu.com/, line 668: ReferenceError: $ is not defined
+JavaScript error: https://www.baidu.com/, line 727: ReferenceError: $ is not defined
+JavaScript error: https://www.baidu.com/, line 725: ReferenceError: $ is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_8936f95.js, line 108: ReferenceError: $ is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_8936f95.js, line 55: ReferenceError: $ is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1545293995011	Marionette	INFO	Stopped listening on port 55625
+[Parent 19788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12924, Chrome_ChildThread[Child 18808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 10984, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545294071558	mozrunner::runner	INFO	Running command: "e:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fhtie\\AppData\\Local\\Temp\\rust_mozprofile.UJIwgriZH6bz"
+1545294072104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545294072104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545294074056	Marionette	INFO	Listening on port 56033
+1545294074278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1545294077583	Marionette	INFO	Stopped listening on port 56033
+[Parent 19636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Child 2288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545295370190	mozrunner::runner	INFO	Running command: "e:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fhtie\\AppData\\Local\\Temp\\rust_mozprofile.0gwssXVKiZRw"
+1545295370779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545295370780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545295372622	Marionette	INFO	Listening on port 58236
+1545295372956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1454_21091_28131_27751_27245_20718&req=2&csor=5&pwd=pyth&cb=jQuery110203401551012906995_1545295373449&_=1545295373455, line 1: TypeError: jQuery110203401551012906995_1545295373449 is not a function
+1545295376143	Marionette	INFO	Stopped listening on port 58236
+[Child 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12868, C[Child 1228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Child 16624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 121
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545295840430	mozrunner::runner	INFO	Running command: "e:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fhtie\\AppData\\Local\\Temp\\rust_mozprofile.juEYfQ2gBGlU"
+1545295840988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545295840989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545295842828	Marionette	INFO	Listening on port 59224
+1545295843169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyth&json=1&p=3&sid=1438_21090_18559_28132_27751_28139_27508&req=2&csor=4&pwd=pyt&cb=jQuery110201844092316638355_1545295843661&_=1545295843666, line 1: TypeError: jQuery110201844092316638355_1545295843661 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=p&json=1&p=3&sid=1438_21090_18559_28132_27751_28139_27508&req=2&csor=1&cb=jQuery110201844092316638355_1545295843661&_=1545295843663, line 1: TypeError: jQuery110201844092316638355_1545295843661 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pytho&json=1&p=3&sid=1438_21090_18559_28132_27751_28139_27508&req=2&csor=5&pwd=pyth&cb=jQuery110201844092316638355_1545295843661&_=1545295843667, line 1: TypeError: jQuery110201844092316638355_1545295843661 is not a function
+1545295846311	Marionette	INFO	Stopped listening on port 59224
+[Parent 11876, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1900[8, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545296017123	mozrunner::runner	INFO	Running command: "e:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fhtie\\AppData\\Local\\Temp\\rust_mozprofile.tvzVxyGpQHJ7"
+1545296017684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545296017684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545296019645	Marionette	INFO	Listening on port 59591
+1545296019864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1545296023078	Marionette	INFO	Stopped listening on port 59591
+[Parent 8592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Child 19864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19864, Chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545297238651	mozrunner::runner	INFO	Running command: "e:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fhtie\\AppData\\Local\\Temp\\rust_mozprofile.jmeKnFdtWi2F"
+1545297239199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1545297239199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1545297241045	Marionette	INFO	Listening on port 61788
+1545297241374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1545297244505	Marionette	INFO	Stopped listening on port 61788
+[Child 19160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Child 3908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3JavaScript error: jar:file:///E:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Child 19840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 3324, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
