@@ -1,5 +1,5 @@
 import xlrd
-from bases.config import TEST_DATA
+# from bases.config import TEST_DATA
 
 '''
 读取excel文件

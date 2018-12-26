@@ -15,17 +15,17 @@ ws7 = wb.add_sheet('用户详情一图一册', cell_overwrite_ok=True)
 ws8 = wb.add_sheet('地图打印', cell_overwrite_ok=True)
 
 class Test_Config:
-    def setup(self):
-        self.conn = psycopg2.connect(database="znxh", user="hlxj_read_only", password="gzshili@2018",
+    def setup(cls):
+        cls.conn = psycopg2.connect(database="znxh", user="hlxj_read_only", password="gzshili@2018",
                                 host="rm-wz9823mjt2rv76g4kwo.pg.rds.aliyuncs.com", port="3432")
         print("Opened database successfully")
 
-        self.cur = self.conn.cursor()
+        cls.cur = cls.conn.cursor()
 
-    def teardown(self):
+    def teardown(cls):
         wb.save('站点微件配置检测.xls')
         print("Operation done successfully")
-        self.conn.close()
+        cls.conn.close()
 
 
     # 每个子系统的图层配置
